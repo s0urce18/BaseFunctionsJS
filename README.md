@@ -2,8 +2,8 @@
 
 ## Choose your language / Оберіть вашу мову / Выберите ваш язык
 
-## [English (README_EN.md)](https://github.com/s0urce18/BaseFunctionsJS/tree/main/README_EN.md)
+## [English (EN)](https://github.com/s0urce18/BaseFunctionsJS/tree/main/EN)
 
-## [Ukrainian (README_UA.md)](https://github.com/s0urce18/BaseFunctionsJS/tree/main/README_UA.md)
+## [Ukrainian (UA)](https://github.com/s0urce18/BaseFunctionsJS/tree/main/UA)
 
-## [Russian (README_RU.md)](https://github.com/s0urce18/BaseFunctionsJS/tree/main/README_RU.md)
+## [Russian (RU)](https://github.com/s0urce18/BaseFunctionsJS/tree/main/RU)
