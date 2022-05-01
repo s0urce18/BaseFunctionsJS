@@ -801,7 +801,7 @@ arr[4] = 4; // arr == [1, 2, 3, 4]
     // arr == [3, 2, 1]
     ```
 
-**Про остальные можно узнать по ссылке:** https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
+***Про остальные можно узнать по ссылке:*** https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 ### Перебор массива
 
