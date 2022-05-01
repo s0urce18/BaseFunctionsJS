@@ -875,13 +875,13 @@ s[0] = "d"; // невозможно
 
 ### Методы строк
 
-`.charCodeAt()` – получение кода элемента
+* `.charCodeAt()` – получение кода элемента
 
 ```js
 let c = "a".charCodeAt(); // 97
 ```
 
-`String.fromCharCode()` – получение элемента по коду
+* `String.fromCharCode()` – получение элемента по коду
 
 ```js
 let c = String.fromCharCode(97); // "a"
