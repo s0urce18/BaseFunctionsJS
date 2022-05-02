@@ -22,9 +22,9 @@ boyarkin.gleb@gmail.com
 
 source.boar@gmail.com
 
-Так же почты подублированы у меня в профиле.
+Також пошти продубльовані у мене в профілі.
 
-Кроме меня вы можете воспользоваться: 
+Окрім мене ви можете використати:
 
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide
 
