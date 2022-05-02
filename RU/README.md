@@ -10,7 +10,7 @@
 
 В первую очередь вы можете написать мне на почты и я попробую вам помочь:
 
-boyarkin.gleb@gmail.com;
+boyarkin.gleb@gmail.com
 
 source.boar@gmail.com
 
@@ -922,7 +922,7 @@ s[0] = "d"; // невозможно
     let s2 = s1.toLowerCase(); // "abc"
     ```
 
-* `.toUpperCase()` – возвращает строку в нижнем регистре
+* `.toUpperCase()` – возвращает строку в верхнем регистре
 
     ```js
     let s1 = "AbC";
